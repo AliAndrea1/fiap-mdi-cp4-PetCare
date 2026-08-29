@@ -125,12 +125,6 @@ package.json
 
 ---
 
-## Navegação
-
-
-
-# Próximos Passos:
-
 
 
 
