@@ -37,7 +37,7 @@ O aplicativo é destinado principalmente a:
 
 O PetCare oferece uma forma simples de centralizar informações importantes sobre os pets, permitindo que o tutor acompanhe sua saúde e rotina em um único lugar.
 
-Tendo como proposta:
+Tendo como principal proposta:
 
 -  Centralizar informações dos pets;
 -  Acompanhar vacinas;
@@ -65,12 +65,61 @@ Tendo como proposta:
 
 ## Estrutura do Projeto
 
+PetCare
 
-    
+src/
+
+    assets/
+
+    components/
+
+    screens/
+
+        Home
+
+        Login
+
+        Vacinas
+
+        Consultas
+
+        Medicamentos
+
+        PerfilPet
+
+    navigation/
+
+    services/
+
+    hooks/
+
+    utils/
+
+    styles/
+
+App.js
+
+package.json
+
+
+- screens/
+  - Home.js → Tela inicial
+  - Login.js → Tela de login
+  - Vacinas.js → Tela de vacinas
+  - Consultas.js → Tela de consultas agendadas
+  - Medicamentos.js → Tela de login de compra de medicamentos
+
 ---
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas/serão utilizadas
+- React Native
+- Expo
+- React Navigation
+- JavaScript
+- AsyncStorage
+- Context API
 
+- Figma (Confecção do Design das telas)
 
 ---
 
