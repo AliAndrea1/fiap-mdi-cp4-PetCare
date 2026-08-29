@@ -60,6 +60,8 @@ Tendo como principal proposta:
 
 
    ```
+# Visualização
+(https://www.figma.com/design/bZG6NRVWyeoYYrk2EbvFjO/PetCare?node-id=2-72&t=zX17zzY9CjTEKIqZ-1)
 
 # Decisões Técnicas:
 
