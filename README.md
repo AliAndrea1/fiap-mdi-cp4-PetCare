@@ -9,6 +9,12 @@
 - Guilherme Linard F.R Gozzi - 555768
 - Lucas Vasquez Silva - 555159
 
+## Funções do grupo:
+
+- Lucas Vasquez Silva - Documentação Readme
+- Ali Andrea Mamani Molle - Design do figma
+- Guilherme Linard F.R Gozzi - Apresentação do Pitch do projeto
+
 # Sobre:
 
 ## Nome:
